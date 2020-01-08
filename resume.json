@@ -1,0 +1,158 @@
+{
+
+  "name": "Frank Haijun Du",
+
+  "label": "Technical Service Consultant",
+
+  "basic": {"cell": "+4915145272736",
+            "email": "frank@frankdu.co",
+            "web": "https://www.frankdu.co",
+            "location": "Dusseldorf, DE"},
+
+  "summary": "Average Guy Building Businesses with Code (Mostly JS and Python)",
+  "image": "assets/images/0.jpeg",
+
+  "socials": {
+    "LinkedIn": "https://www.linkedin.com/in/frankdu1995/",
+    "GitHub": "https://github.com/Frankdew1995",
+    "Twitter": "https://twitter.com/Frankdew19951"
+  },
+
+  "skills": {
+    "technical": ["Python/JavaScript/SQL", "Flask/Backend Development/REST API",
+                  "Data Analysis & Visualization", "RPA (Robotic Process Automation)",
+                  "Web Scraping"
+                ],
+    "professional": [
+      "User Research", "Training/Teaching",
+      "Product Management", "Business Development",
+      "Sourcing & Procurement", "Logistics & Supply Chain Management",
+      "Strategy & Growth"
+    ]
+  },
+
+
+  "languages": [
+    "Mandarin Chinese", "English", "German"
+  ],
+
+
+  "education":[
+    {"institution": "Rhine-Waal University",
+    "degree": "BSc.",
+    "major": "Mobility & Logistics",
+    "start":"September 2014",
+    "end": "July 2018"}
+  ],
+
+  "work": [
+
+    {
+
+      "company": "Swiftify",
+      "href":"https://swiftify.co",
+      "position": "Founder",
+      "location": "Remote",
+      "start": "Nov 2019",
+      "end": "present",
+      "summary": "Swiftify is a SaaS (Software-as-a-service) based digital solution that enables you to manage and digitize your international trade flow: sourcing, procurement, logistics and more at efficiency."
+
+
+    },
+
+    {
+
+      "company": "HUAWEI",
+      "href":"https://huawei.com",
+      "position": "Python Developer",
+      "location": "Dusseldorf, DE",
+      "start": "JUL 2018",
+      "end": "JUN 2019",
+      "highlights": ["Design and develop internal Python components focusing on modularity, code readability, reusability, and developer friendliness.",
+                      "Design, develop and deploy advanced RPA(Robotic Process Automation) solutions that address real business operation challenges.",
+                      "Design RESTful API with Flask: focusing on abstracting away complex Python and RPA functionalities into the reusable API entry points to power large data delivery projects."
+      ]
+
+
+    },
+
+
+    {
+      "company": "Gshopper",
+      "href":"https://gshopper.com",
+      "position": "Sourcing Specialist",
+      "location": "Dusseldorf, DE",
+      "start": "DEC 2017",
+      "end": "JUN 2018",
+      "summary": "FMCG sourcing, merchandising, logsitics and key account management"
+    },
+
+
+    {
+
+      "company": "Sourcepro GmbH",
+      "href":"https://sourcepro.de",
+      "position": "Business Development Manager",
+      "location": "Cologne, DE",
+      "start": "APR 2017",
+      "end": "OCT 2017",
+      "summary": "Enabled a collaborative FMCG supply chain, developed and maintained a strategic supply landscape rendering quality, availability and a gross profit margin at a 5% approximation.",
+      "highlights": [
+        "Partially managing existing vendor base, exploring and establishing new suppliers network.",
+        "Utilizing G Suite(Google Apps) to design, optimize and digitize the goods purchase flows that improved the company’s internal purchasing efficiency and productivity.",
+        "Serving as the front-end person of the company working with the established supply network to propel transaction efficiency, determine new procurement opportunities, update purchasing policies and customize procurement processes that fit bilaterally for every individual vendor."
+      ]
+
+    },
+
+
+
+    {
+
+      "company": "E-TAO GmbH",
+      "href":"#",
+      "position": "Purchasing Manager",
+      "location": "Cologne, DE",
+      "start": "JAN 2017",
+      "end": "JUN 2017",
+      "summary": "developed a more diversified and resourceful upstream suppliers portfolio for strategically important FMCG brands",
+      "highlights": [
+        "Initiate, oversee and conclude Procure-to-Pay cycle in a timely, secure and effective manner in favor of company's terms and conditions.",
+        "Plan and implement sourcing strategies for several specific FMCG brands along with purchasing director.",
+        "Raw web pricing data collection, importing, preprocessing and cleaning for pricing strategies and profit margin projection."
+      ]
+
+    },
+
+
+    {
+
+      "company": "Umall",
+      "href":"https://umall.world",
+      "position": "Trade Developer",
+      "location": "Gelsenkirchen, DE",
+      "start": "MAY 2016",
+      "end": "DEC 2016",
+      "summary": "Enhanced the company’s financial resilience for it not having to purchase bulky inventories. Expressly, I worked with upstream vendors to implement a drop shipping business line whereby vendors deliver the ordered items on behalf of the company to the customers without them being purchased in advance."
+
+
+    }
+
+
+  ],
+
+  "projects": [
+
+    {"name": "YouTube Channel for Python Programming Tutorials",
+    "web": "https://frankdu.co/youtube",
+    "type": "Programming Education",
+    "summary": "Channel launched in January 2019, where I serve as the instructor and content creator to teach Python and coding. Averagely, the channel is gaining 2 - 3 new subscribers weekly."}
+
+  ]
+
+
+
+
+
+
+}
