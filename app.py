@@ -2,7 +2,7 @@ import json
 
 from pathlib import Path
 
-import os, shutil
+import shutil
 
 
 def render_resume():
@@ -16,7 +16,6 @@ def render_resume():
         resume_data = json.loads(data)
 
     return resume_data
-
 
 
 def json2html(template_folder):
